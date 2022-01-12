@@ -20,3 +20,13 @@ main {
    align-items: center;
 }
 
+p {
+   font-size: 1.8rem;
+   font-family: 'Outfit', sans-serif;
+}
+
+h1 {
+   font-size: 2.2rem;
+   font-family: 'Outfit', sans-serif;
+   color: hsl(0, 0%, 100%);
+}
