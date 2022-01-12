@@ -4,3 +4,6 @@
    box-sizing: border-box;
 }
 
+body {
+   background: hsl(217, 54%, 11%);
+}
