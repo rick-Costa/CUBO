@@ -30,3 +30,8 @@ h1 {
    font-family: 'Outfit', sans-serif;
    color: hsl(0, 0%, 100%);
 }
+
+#img-main {
+   width: 100%;
+   border-radius: 1.5rem;
+}
