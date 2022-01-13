@@ -38,13 +38,13 @@ h1 {
 
 article {
    max-width: 350px;
-   padding: 1.5rem;
+   padding: 2rem;
    background-color: hsl(216, 50%, 16%);
    border-radius: 1.5rem;
    box-shadow: 0 0 10px 10px hsl(216, 53%, 10%);
    display: grid;
    grid-template-columns: 1fr;
-   gap: 1rem;
+   gap: 2rem;
 }
 
 .descriptor {
