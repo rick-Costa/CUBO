@@ -73,3 +73,9 @@ article {
    justify-self: end;
    color: hsl(215, 51%, 70%);
 }
+
+hr {
+   border: none;
+   height: 2.5px;
+   background-color: hsl(215, 32%, 27%);
+}
